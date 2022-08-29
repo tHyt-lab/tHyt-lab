@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tHyt-lab</h1>
+## Hi 👋, I'm tHyt-lab
 
 <p align="left">
   <a href="https://github.com/tHyt-lab/tHyt-lab/">
